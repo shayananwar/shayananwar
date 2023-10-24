@@ -1,5 +1,8 @@
 ### Hi there 👋
+[![committers.top badge](https://user-badge.committers.top/uae_private/shayananwar.svg)](https://user-badge.committers.top/uae_private/shayananwar)
 
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayananwar&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shayananwar&theme=dark&hide_border=false)<br/>
 <!--
 **shayananwar/shayananwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
